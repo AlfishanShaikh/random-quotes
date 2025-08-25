@@ -17,7 +17,7 @@ A clean, minimalist web application that delivers inspirational and thought-prov
 
 ## 📸 Screenshots
 
-> ![Screenshot](https://github.com/AlfishanShaikh/js-project-docs/blob/a965c85ef07ee363f8f35fa009f08750c8fb07c9/banner.png)
+> ![Screenshot](https://github.com/AlfishanShaikh/random-quotes/blob/3b89c5e49da0a41fcbd079aad205dc9facc8b88c/banner%20image.png)
 
 ## Getting Started
 
